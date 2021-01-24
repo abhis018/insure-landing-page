@@ -1,0 +1,21 @@
+.ul {
+    list-style-type: none;
+    flex: 50%;
+    text-align: right;
+    margin-right: 50px;
+}
+.li {
+    display: inline;
+    margin-right: 15px;
+    font-size: 12px;
+}
+
+.navigate {
+    display: flex;
+    background-color: hsl(0, 0%, 98%);
+}
+.img {
+    height: 15px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
